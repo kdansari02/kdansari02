@@ -1,8 +1,8 @@
-![](https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfrontend%2Bdeveloper&psig=AOvVaw09LppoFlUu8BqBZfH1idQm&ust=1715079174858000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDf35Hu-IUDFQAAAAAdAAAAABAE)
 
+![banner](https://github.com/kdansari02/kdansari02/assets/168798938/2a1089f9-75f1-4b72-ac1f-765dcc1f1571)
+# 💫About Me:  
+[![](https://visitcount.itsvg.in/api?id=kdansari02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-# 💫 About Me:
 🌍  I'm based in India<br>🖥️  See my portfolio at Portfolio<br>✉️  You can contact me at khusmuddin.ansari@gmail.com<br>🧠  I'm learning Full Stack
 
 
@@ -18,7 +18,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kdansari02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=kdansari02&icon=0&color=0)](https://visitcount.itsvg.in)
 
