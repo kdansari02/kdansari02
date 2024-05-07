@@ -1,15 +1,6 @@
+<img alt="banner " src="https://github.com/kdansari02/kdansari02/assets/168798938/29392661-2483-4b92-9232-91ef7d1630fc"/>
 
 
-
-
-<img alt="banner " src="https://github.com/kdansari02/kdansari02/assets/168798938/69b691ae-bb8f-480b-8ae3-df14be9d6d05" width="1080" height="auto"/>
-
-
-
-
-
-
-![banner](https://github.com/kdansari02/kdansari02/assets/168798938/2a1089f9-75f1-4b72-ac1f-765dcc1f1571)
 # 💫About Me:  
 [![](https://visitcount.itsvg.in/api?id=kdansari02&icon=0&color=0)](https://visitcount.itsvg.in)
 
